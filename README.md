@@ -5,12 +5,15 @@ This end-to-end project demonstrates skills across Python (EDA), SQL (business l
 
 # 📁 Project Files
 
-File	Purpose
-Customer Shopping Behavior Analysis.pdf	Executive case study report
-customer_behavior_dashboard.pbix	Power BI dashboard
-customer_behavior_dashboard.sql	SQL queries used for insights
-customer_behavior_dashboard.ipynb	Python notebook for EDA & cleaning
-customer_shopping_behavior.csv	Original dataset
+## 📁 Project Files
+
+| File | Purpose |
+|---|---|
+| `Customer Shopping Behavior Analysis.pdf` | Executive case study report |
+| `customer_behavior_dashboard.pbix` | Power BI dashboard |
+| `customer_behavior_dashboard.sql` | SQL queries used for insights |
+| `customer_behavior_dashboard.ipynb` | Python notebook for EDA & cleaning |
+| `customer_shopping_behavior.csv` | Original dataset |
 
 # 🔧 Tools & Technology
 
