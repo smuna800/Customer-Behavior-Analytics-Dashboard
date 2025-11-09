@@ -5,8 +5,6 @@ This end-to-end project demonstrates skills across Python (EDA), SQL (business l
 
 # 📁 Project Files
 
-## 📁 Project Files
-
 | File | Purpose |
 |---|---|
 | `Customer Shopping Behavior Analysis.pdf` | Executive case study report |
