@@ -1,7 +1,6 @@
 # Customer-Behavior-Analytics-Dashboard
-Customer Behavior Analytics Dashboard
 
-Analyzed 3,900 shopping transactions to understand spending patterns, top performing products, subscription behavior and discount effectiveness.
+Analyzed 3,900 shopping transactions to understand spending patterns, top-performing products, subscription behavior, and discount effectiveness.
 This end-to-end project demonstrates skills across Python (EDA), SQL (business logic) & Power BI (visual analytics).
 
 # 📁 Project Files
